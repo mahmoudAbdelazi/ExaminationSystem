@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ExaminationSystem.Models.Enums;
+using System.ComponentModel.DataAnnotations;
 using System.Data;
 
 namespace ExaminationSystem.Models

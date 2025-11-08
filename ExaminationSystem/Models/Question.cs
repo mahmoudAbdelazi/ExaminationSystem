@@ -1,4 +1,6 @@
-﻿namespace ExaminationSystem.Models
+﻿using ExaminationSystem.Models.Enums;
+
+namespace ExaminationSystem.Models
 {
     public class Question : BaseModel
     {
